@@ -15,6 +15,6 @@
 Bu video serisinde Kotlin ile güçlü bir Sqlite kütüphanesi olan Room ile Listeleme, Ekleme, Güncelleme ve Silme operasyonları nasıl hızlı ve kolay bir şekilde gerçekleştirilir ve Room bize ne gibi kolaylıklar sağlıyor bunlara bakıyor olacağız.
 ### Kotlin Architecture Component : Room (@Insert, @Update, @Delete)
 
-<img src="/record.gif" width="400" height="790" />
+<img src="/record.gif" width="240" height="480" />
 
 ![App UI](/preview.png)
