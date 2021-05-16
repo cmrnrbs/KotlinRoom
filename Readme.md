@@ -10,7 +10,7 @@
 - kotlin-parcelize: [link](https://developer.android.com/kotlin/parcelize)
 
 
-## [Watch it on YouTube](https://youtu.be/_uOgXpEHNbc)
+## [Watch it on YouTube](https://www.youtube.com/watch?v=FROxASBWtHE&list=PLy-lwcPKu8i3b7r2K9WnlhYOPfozs93d1)
 
 Bu video serisinde Kotlin ile güçlü bir Sqlite kütüphanesi olan Room ile Listeleme, Ekleme, Güncelleme ve Silme operasyonları nasıl hızlı ve kolay bir şekilde gerçekleştirilir ve Room bize ne gibi kolaylıklar sağlıyor bunlara bakıyor olacağız.
 ### Kotlin Architecture Component : Room (@Insert, @Update, @Delete)
